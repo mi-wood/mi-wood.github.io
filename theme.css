@@ -1,0 +1,19 @@
+html {
+  background-color: #b3ffff;
+  color: #ff6666;
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-top: 50px;
+  text-align: center;
+}
+a:link {
+  color: #ff80fe;
+}
+
+a:visited {
+  color: #c080ff;
+}
+
+a:hover {
+  color: #c080ff;
+}
