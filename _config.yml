@@ -1,16 +1,15 @@
 # Site settings
-title: My Territory
-blog_title: My Territory
+title: M
+blog_title: Mikena Wood
 header-img: img/home-bg.jpg
-email: root@shikherverma.com
-copyright_name: ShikherVerma
-description: "Online Territory of Shikher Verma"
+email: mikena@woodmail.me
+copyright_name: MikenaWood
+description: "Personal Site of Mikena Wood"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://shikherverma.com #only used in disque comments for now
-disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
-github_username:  shikherverma
-facebook_username:  shikherverma1
-stackoverflow_username: 6764571/shikher-verma
+url: http://mikenawood.com #only used in disque comments for now
+disqus_url: mikenawood.com # disque comments are broken if you send http:// along with url
+github_username:  mi-wood
+twitter_username: donutfemme
 collections:
   - portfolio
 
