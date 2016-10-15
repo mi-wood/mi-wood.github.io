@@ -6,7 +6,7 @@ email: mikena@woodmail.me
 copyright_name: Mikena Wood
 description: "Personal Site of Mikena Wood"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://mikenawood.com #only used in disque comments for now
+url: http://www.mikenawood.com #only used in disque comments for now
 disqus_url: mikenawood.com # disque comments are broken if you send http:// along with url
 github_username:  mi-wood
 twitter_username: donutfemme

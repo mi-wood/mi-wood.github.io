@@ -33,10 +33,6 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 {{ content }}
                 <br>
-                {% if page.comments %}
-                    {% include disqus_comments.html %}
-                {% endif %}
-                <br>
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
